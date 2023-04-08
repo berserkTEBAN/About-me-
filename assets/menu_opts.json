@@ -1,0 +1,38 @@
+{
+    "nombreApp" : "sparky",
+    "rutas" : [
+        {
+            "ruta" : "inicio",
+            "icon" : "accessibility",
+            "texto": "Quien soy?"
+        },
+        {
+            "ruta" : "card",
+            "icon" : "card",
+            "texto": "Gustos"
+        },
+        {
+            "ruta" : "forms",
+            "icon" : "input",
+            "texto": "Contactos"
+        },
+        {
+            "ruta" : "juego",
+            "icon" : "juego",
+            "texto": "Juegos"
+        },
+        {
+             "ruta" : "list",
+            "icon" : "list",
+            "texto": "Galeria"
+
+        },
+        {
+            "ruta" : "musica",
+            "icon" : "musica",
+            "texto": "Musica"
+        }
+
+        
+    ]
+}
